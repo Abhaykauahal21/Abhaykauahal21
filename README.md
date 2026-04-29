@@ -110,7 +110,7 @@ const abhay = {
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Abhaykauahal21?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/Abhaykauahal21/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Abhaykauahal21?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/kaushalabhay15/)
 
 </div>
 
